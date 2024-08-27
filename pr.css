@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .progress-bar {
+    background-color: #007bff;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  .navbar {
+    margin-bottom: 20px;
+  }
+  /* Background color for the Resume section */
+.bg-light {
+    background-color: #f8f9fa;
+  }
+  
+  /* Custom background color and styling for the Resume content */
+  .bg-white {
+    background-color: #ffffff;
+  }
+  
+  .rounded {
+    border-radius: .25rem;
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
+  .text-decoration-none {
+    text-decoration: none;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  
